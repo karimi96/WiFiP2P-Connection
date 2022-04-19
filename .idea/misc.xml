@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/new/Root/AndroidStudio/New Version/WiFiP2PConnection/app/src/main/res/drawable/border_edittext.xml" value="0.1" />
+        <entry key="..\:/new/Root/AndroidStudio/New Version/WiFiP2PConnection/app/src/main/res/drawable/border_send.xml" value="0.1175925925925926" />
         <entry key="..\:/new/Root/AndroidStudio/New Version/WiFiP2PConnection/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
       </map>
     </option>
